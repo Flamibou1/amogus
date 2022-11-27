@@ -1,0 +1,10 @@
+{
+    "threadCount": 500,
+    "displayErrors": false,
+    "isLooped": false,
+    "minMemberCount": 0,
+    "range": {
+        "min": 0,
+        "max": 10000000
+    }
+}
